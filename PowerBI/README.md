@@ -1,1 +1,1 @@
-En ésta carpeta se encuentra el informe PowerBI del trabajo.
+# En ésta carpeta se encuentra el PowerBI del trabajo.
